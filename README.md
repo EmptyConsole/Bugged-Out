@@ -17,6 +17,7 @@ All art, music, and code is fully original.
 After completing the game, here is a list of what all the blocks do:
 
 Black - Normal blocks
+
 White - No hitbox
 
 Red - No hitbox on left side
