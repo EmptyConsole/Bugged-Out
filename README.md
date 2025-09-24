@@ -17,12 +17,21 @@ All art, music, and code is fully original.
 After completing the game, here is a list of what all the blocks do:
 
 Black - Normal blocks
+
 White - No hitbox
+
 Red - No hitbox on left side
+
 Pink - Kills player
+
 Blue - Hitbox for block is beneath the display
+
 Yellow - Hitbox x and y sizes are half of display sizes
+
 Purple - Blasts the player upwards
+
 Orange - Player bounces off block
+
 Green - Reduces player x movement drag
+
 Cyan - Can have any glitch of the other blocks
