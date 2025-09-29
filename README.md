@@ -7,11 +7,8 @@ Some of the platforms in this game have been bugging out recently... Crashing co
 
 Going in with just your quick thinking and exceptional logic, make it to the end of Bugged Out to become the smartest player in the world. Use WASD or the arrow keys and try to reach the portal to end each level. Don't hit the spikes!
 
-Contact Empty Console on Discord:
+Contact Empty Console on Discord at shyguygamedev, hfanggamedev, and qorachniuphorbia.
 
-shyguygamedev
-hfanggamdev
-qorachniuphorbia
 All art, music, and code is fully original.
 
 After completing the game, here is a list of what all the blocks do:
