@@ -3,7 +3,7 @@ A platformer where some viruses created a few problems... Submitted for the Patc
 
 We've been hearing rumors something is wrong with this platformer...
 
-Some of the platforms in this game have been bugging out recently... Crashing computers, exploding servers, players going crazy, it's all happened. We need your help to play through the game in order for us to see what's a glitch, what's a feature, and what's both. Submitted for the Patch Notes 2025 Game Jam with the theme of The Error is the Feature and was 17th out of 454 entries.
+Some of the platforms in this game have been bugging out recently... Crashing computers, exploding servers, players going crazy, it's all happened. We need your help to play through the game in order for us to see what's a glitch, what's a feature, and what's both. Submitted for the Patch Notes 2025 Game Jam with the theme of The Error is the Feature and was 17th out of 454 entries with 17th in overall, 17th in theme integration, 18th in gameplay, 24th in fun factor, 38th in art, 46th in sound design, and 71st in innovation.
 
 Going in with just your quick thinking and exceptional logic, make it to the end of Bugged Out to become the smartest player in the world. Use WASD or the arrow keys and try to reach the portal to end each level. Don't hit the spikes!
 
